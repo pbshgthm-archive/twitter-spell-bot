@@ -13,8 +13,9 @@ class Bot(tweepy.API):
 					quoted_id=int(quoted_id.split("/")[-1])
 					src=self.get_status(quoted_id)
 				except:
+					print("destroying ",tweet.id)
 					self.destroy_status(tweet.id)
-			print("Timeline Cleaned")
+		print("Timeline Cleaned")
 
 
 	def follow_followers(self):
