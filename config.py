@@ -1,6 +1,6 @@
 bot_auth={}
-bot_auth['consumer_key']="hsYAWvJcHHYjf5n4AAivi064q"
-bot_auth['consumer_secret']="59QJ2q11ZJlOjHjjYoZ6U2jtlXLSAOxaDdHt9uKW92C5qWqfl4"
-bot_auth['access_token']="879776151593406464-unLvLodGPO0TISbRJ9br7SZoYpfaYzR"
-bot_auth['access_token_secret']="YaTM6AiRWAJ1rSgXIieBUtGte6zyLKhz8BnG1qvWcFTRB"
+bot_auth['consumer_key']="T33FjrY4RGpe9NEzgQ954OUSn"
+bot_auth['consumer_secret']="PhAv8jmwl6v81Dwoa6f3wwI9sVwJlOGKPvPtXddqLFJt555KJm"
+bot_auth['access_token']="879776151593406464-ElU8aommFKYgGnumhnLfYknSMvF3MjY"
+bot_auth['access_token_secret']="cOikyceR9XJ1ZwouWgrDAvBBssArRD3ldkxOxt8RaeySy"
 bot_auth['handle']="iamSpellCop"

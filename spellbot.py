@@ -23,7 +23,7 @@ class StreamListener(tweepy.StreamListener):
 
 			if not status.lang=="en":
 				return
-			if not status.user.followers_count>2000:
+			if not status.user.followers_count>2500:
 				return
 
 			try:
